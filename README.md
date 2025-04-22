@@ -3,8 +3,7 @@
 
 **Introdução**  
 Vivemos em uma era em que ideias, dados e pessoas precisam de pontes, não de muros. O ORUS nasceu para ser esse elo: um arquivo universal, um protocolo vivo, uma linguagem que transforma pensamento em produto, caos em clareza, e potencial em resultado.
-
-**Desenvolvimento**  
+ 
 O ORUS não é só código. É uma arquitetura de comandos, tags, metadados e fluxos que permite automatizar, rastrear, versionar e expandir qualquer processo criativo ou produtivo — de carrosséis a e-books, de sistemas a estratégias, de ideias a negócios.  
 Cada comando, cada tag, cada arquivo é uma peça de um ecossistema vivo, onde o conhecimento não se perde: ele evolui, se conecta, se multiplica.
 
